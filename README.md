@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sai+Lin+Htet+%F0%9F%91%8B;Full-Stack+Developer;AI+%7C+Web+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sai+Lin+Htet+%F0%9F%91%8B;Full-Stack+Developer;AI+%7C+Web+%7C+Cloud" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -169,7 +169,7 @@ Currently pursuing **BSc Computer Science** at Rangsit International College, Th
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiLinHtet-KiRA&theme=dark&ring=10B981&fire=10B981&currStreakLabel=10B981&sideNums=ffffff&sideLabels=ffffff&dates=6B7280&background=0D1117&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=SaiLinHtet-KiRA&theme=dark&ring=10B981&fire=10B981&currStreakNum=ffffff&currStreakLabel=10B981&sideNums=ffffff&sideLabels=ffffff&dates=6B7280&background=0D1117&hide_border=true" height="160" />
 </p>
 
 ---
