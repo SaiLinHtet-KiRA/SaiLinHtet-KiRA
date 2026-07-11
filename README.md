@@ -17,7 +17,7 @@ Passionate about scalable systems, clean architecture, and shipping quality soft
 Currently pursuing **BSc Computer Science** at Rangsit International College, Thailand.
 
 - 🔭 Working with **Next.js 16 · Supabase · Gemini AI**
-- 🏆 **2nd Runner-up** at AIIC 2026 Hackathon
+- 🏆 **2nd Runner-up** at APPLIED ARTIFICIAL INTELLIGENCE INNOVATION CHALLENGE (AIIC) 2026 Hackathon
 - 📚 Year 1 GPA: **3.4/4**
 - 🌱 Learning: System Design, AI/ML, DevOps
 
@@ -114,7 +114,7 @@ Currently pursuing **BSc Computer Science** at Rangsit International College, Th
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">AIIC 2026 Hackathon 🏆</h3>
+      <h3 align="center">APPLIED ARTIFICIAL INTELLIGENCE INNOVATION CHALLENGE (AIIC) 2026 Hackathon 🏆</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs" />
@@ -132,13 +132,13 @@ Currently pursuing **BSc Computer Science** at Rangsit International College, Th
 <summary>📦 More Projects</summary>
 <br>
 
-| Project | Stack | Links |
-|---------|-------|-------|
-| File Converter | MERN · Sharp · PDF Parser | [Code](https://github.com/SaiLinHtet-KiRA/File-Converter.git) |
-| Real-Time E-commerce | MERN · Socket.io · Redux | [Code](https://github.com/SaiLinHtet-KiRA/E-com.git) |
-| E-commerce Next.js | Next.js · MongoDB · Redux | [Code](https://github.com/SaiLinHtet-KiRA/E-com-Nex.js-.git) |
-| EN→MM Translator | PyTorch · Transformers | eng_mm.ipynb |
-| GPT-1 Reference | PyTorch · Decoder-only | GPT.ipynb |
+| Project              | Stack                     | Links                                                         |
+| -------------------- | ------------------------- | ------------------------------------------------------------- |
+| File Converter       | MERN · Sharp · PDF Parser | [Code](https://github.com/SaiLinHtet-KiRA/File-Converter.git) |
+| Real-Time E-commerce | MERN · Socket.io · Redux  | [Code](https://github.com/SaiLinHtet-KiRA/E-com.git)          |
+| E-commerce Next.js   | Next.js · MongoDB · Redux | [Code](https://github.com/SaiLinHtet-KiRA/E-com-Nex.js-.git)  |
+| EN→MM Translator     | PyTorch · Transformers    | eng_mm.ipynb                                                  |
+| GPT-1 Reference      | PyTorch · Decoder-only    | GPT.ipynb                                                     |
 
 </details>
 
@@ -203,8 +203,8 @@ Currently pursuing **BSc Computer Science** at Rangsit International College, Th
 
 ### 🎓 Education
 
-| Degree | Institution | Year | GPA |
-|--------|-------------|------|-----|
+| Degree               | Institution                             | Year      | GPA   |
+| -------------------- | --------------------------------------- | --------- | ----- |
 | BSc Computer Science | Rangsit International College, Thailand | 2025–2028 | 3.4/4 |
 
 ---
