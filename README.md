@@ -132,13 +132,13 @@ Currently pursuing **BSc Computer Science** at Rangsit International College, Th
 <summary>📦 More Projects</summary>
 <br>
 
-| Project              | Stack                     | Links                                                         |
-| -------------------- | ------------------------- | ------------------------------------------------------------- |
-| File Converter       | MERN · Sharp · PDF Parser | [Code](https://github.com/SaiLinHtet-KiRA/File-Converter.git) |
-| Real-Time E-commerce | MERN · Socket.io · Redux  | [Code](https://github.com/SaiLinHtet-KiRA/E-com.git)          |
-| E-commerce Next.js   | Next.js · MongoDB · Redux | [Code](https://github.com/SaiLinHtet-KiRA/E-com-Nex.js-.git)  |
-| EN→MM Translator     | PyTorch · Transformers    | eng_mm.ipynb                                                  |
-| GPT-1 Reference      | PyTorch · Decoder-only    | GPT.ipynb                                                     |
+| Project | Stack | Links |
+|---------|-------|-------|
+| File Converter | MERN · Sharp · PDF Parser | [Code](https://github.com/SaiLinHtet-KiRA/File-Converter.git) |
+| Real-Time E-commerce | MERN · Socket.io · Redux | [Code](https://github.com/SaiLinHtet-KiRA/E-com.git) |
+| E-commerce Next.js | Next.js · MongoDB · Redux | [Code](https://github.com/SaiLinHtet-KiRA/E-com-Nex.js-.git) |
+| EN→MM Translator | PyTorch · Transformers | eng_mm.ipynb |
+| GPT-1 Reference | PyTorch · Decoder-only | GPT.ipynb |
 
 </details>
 
@@ -164,28 +164,47 @@ Currently pursuing **BSc Computer Science** at Rangsit International College, Th
 ### 📊 Stats
 
 <p align="center">
-  <a href="https://github.com/SaiLinHtet-KiRA">
-    <img src="https://github-readme-stats.vercel.app/api?username=SaiLinHtet-KiRA&show_icons=true&theme=dark&title_color=10B981&icon_color=10B981&text_color=ffffff&bg_color=0D1117&hide_border=true&count_private=true&hide=stars&rank_icon=github" height="160" />
-  </a>
-  <a href="https://github.com/SaiLinHtet-KiRA">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiLinHtet-KiRA&layout=compact&theme=dark&title_color=10B981&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=8" height="160" />
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center" width="160">
+        <strong style="color:#10B981;font-size:28px">6+</strong><br/>
+        <sub>Projects</sub>
+      </td>
+      <td align="center" width="160">
+        <strong style="color:#10B981;font-size:28px">10+</strong><br/>
+        <sub>Technologies</sub>
+      </td>
+      <td align="center" width="160">
+        <strong style="color:#10B981;font-size:28px">🏆</strong><br/>
+        <sub>Hackathon Winner</sub>
+      </td>
+      <td align="center" width="160">
+        <strong style="color:#10B981;font-size:28px">3.4</strong><br/>
+        <sub>GPA</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,docker,git,linux" alt="Skills" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiLinHtet-KiRA&show_icons=true&theme=dark&title_color=10B981&icon_color=10B981&text_color=ffffff&bg_color=0D1117&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiLinHtet-KiRA&layout=compact&theme=dark&title_color=10B981&text_color=ffffff&bg_color=0D1117&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SaiLinHtet-KiRA&theme=dark&ring=10B981&fire=10B981&currStreakNum=ffffff&currStreakLabel=10B981&sideNums=ffffff&sideLabels=ffffff&dates=6B7280&background=0D1117&hide_border=true" height="160" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=SaiLinHtet-KiRA&theme=dark&ring=10B981&fire=10B981&currStreakNum=ffffff&currStreakLabel=10B981&sideNums=ffffff&sideLabels=ffffff&dates=6B7280&background=0D1117&hide_border=true" height="160" />
 </p>
-
-<sub align="center">Stats will appear once your account has public activity. If images still don't load, try refreshing after a few minutes or check <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> for status.</sub>
 
 ---
 
 ### 🎓 Education
 
-| Degree               | Institution                             | Year      | GPA   |
-| -------------------- | --------------------------------------- | --------- | ----- |
+| Degree | Institution | Year | GPA |
+|--------|-------------|------|-----|
 | BSc Computer Science | Rangsit International College, Thailand | 2025–2028 | 3.4/4 |
 
 ---
@@ -197,4 +216,3 @@ Currently pursuing **BSc Computer Science** at Rangsit International College, Th
 <p align="center">
   <i>Let's build something great together.</i>
 </p>
-s
