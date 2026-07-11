@@ -164,13 +164,21 @@ Currently pursuing **BSc Computer Science** at Rangsit International College, Th
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiLinHtet-KiRA&show_icons=true&theme=dark&title_color=10B981&icon_color=10B981&text_color=ffffff&bg_color=0D1117&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiLinHtet-KiRA&layout=compact&theme=dark&title_color=10B981&text_color=ffffff&bg_color=0D1117&hide_border=true" height="160" />
+  <a href="https://github.com/SaiLinHtet-KiRA">
+    <img src="https://github-readme-stats.vercel.app/api?username=SaiLinHtet-KiRA&show_icons=true&theme=dark&title_color=10B981&icon_color=10B981&text_color=ffffff&bg_color=0D1117&hide_border=true&count_private=true&hide=stars&rank_icon=github" height="160" />
+  </a>
+  <a href="https://github.com/SaiLinHtet-KiRA">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiLinHtet-KiRA&layout=compact&theme=dark&title_color=10B981&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=8" height="160" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaiLinHtet-KiRA&theme=dark&ring=10B981&fire=10B981&currStreakNum=ffffff&currStreakLabel=10B981&sideNums=ffffff&sideLabels=ffffff&dates=6B7280&background=0D1117&hide_border=true" height="160" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SaiLinHtet-KiRA&theme=dark&ring=10B981&fire=10B981&currStreakNum=ffffff&currStreakLabel=10B981&sideNums=ffffff&sideLabels=ffffff&dates=6B7280&background=0D1117&hide_border=true" height="160" />
+  </a>
 </p>
+
+<sub align="center">Stats will appear once your account has public activity. If images still don't load, try refreshing after a few minutes or check <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> for status.</sub>
 
 ---
 
@@ -189,3 +197,4 @@ Currently pursuing **BSc Computer Science** at Rangsit International College, Th
 <p align="center">
   <i>Let's build something great together.</i>
 </p>
+s
