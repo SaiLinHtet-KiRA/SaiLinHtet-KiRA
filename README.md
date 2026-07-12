@@ -191,11 +191,6 @@ Currently pursuing **BSc Computer Science** at Rangsit International College, Th
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiLinHtet-KiRA&show_icons=true&theme=dark&title_color=10B981&icon_color=10B981&text_color=ffffff&bg_color=0D1117&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiLinHtet-KiRA&layout=compact&theme=dark&title_color=10B981&text_color=ffffff&bg_color=0D1117&hide_border=true" height="160" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=SaiLinHtet-KiRA&theme=dark&ring=10B981&fire=10B981&currStreakNum=ffffff&currStreakLabel=10B981&sideNums=ffffff&sideLabels=ffffff&dates=6B7280&background=0D1117&hide_border=true" height="160" />
 </p>
 
